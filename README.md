@@ -1,6 +1,8 @@
 # MouseGame-VR
 It is a game for the children.
 
+Main Technologies: Unreal engine, Blueprint, Blender
+
 https://github.com/YagmurAslannn/MouseGame-VR/assets/145435494/84d8d0c9-5062-4713-bdf6-1b7ad58ee71c
 
 https://github.com/YagmurAslannn/MouseGame-VR/assets/145435494/f2ddc025-ce95-42ca-96eb-ab849de561fb
